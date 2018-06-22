@@ -1,2 +1,2 @@
 # Guide9
-Una semplice guida2
+Una semplice guida2.
